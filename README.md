@@ -15,3 +15,6 @@ Além disso, entendi a diferença entre CapEx e OpEx:
 - CapEx é quando a empresa investe alto comprando equipamentos e infraestrutura física.
 
 - OpEx é quando os custos passam a ser operacionais, pagando apenas pelo uso dos recursos na nuvem, o que é mais flexível e escalável.
+
+## VM Cloud Azure
+
