@@ -14,7 +14,7 @@ Também entendi a diferença entre CapEx e OpEx:
 
 - CapEx (Capital Expenditure) representa os gastos com compra de servidores e infraestrutura própria.
 
-- OpEx (Operational Expenditure) são custos operacionais recorrentes, como pagar apenas pelo uso dos recursos na nuvem — o que traz mais flexibilidade, escalabilidade e economia.
+- OpEx (Operational Expenditure) são custos operacionais recorrentes, como pagar apenas pelo uso dos recursos na nuvem -- o que traz mais flexibilidade, escalabilidade e economia.
 
 Além disso, explorei os principais benefícios da nuvem Azure:
 
