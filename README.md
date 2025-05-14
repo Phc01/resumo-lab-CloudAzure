@@ -42,3 +42,5 @@ Esse conteúdo reforçou como a computação em nuvem transforma a forma como as
 
 ## VM Cloud Azure
 
+## Banco de Dados no Cloud Azure
+
