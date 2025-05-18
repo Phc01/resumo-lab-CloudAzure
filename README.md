@@ -44,3 +44,6 @@ Esse conteúdo reforçou como a computação em nuvem transforma a forma como as
 
 ## Banco de Dados no Cloud Azure
 
+## Grupo de Recursos Cloud Azure
+
+
