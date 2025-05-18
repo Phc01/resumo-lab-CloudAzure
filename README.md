@@ -62,4 +62,31 @@ Esse processo me ajudou a entender na prática como provisionar recursos na nuve
 ### Resource Group Cloud Azure
 ![Detalhes Resource Group](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/grupo%20de%20recursos%20com%20itens.png)
 
+## Computação na Azure
+A plataforma oferece diferentes formas de executar cargas de trabalho, como:
 
+- Máquinas Virtuais (VMs): instâncias completas de sistema operacional, ideais para controle total do ambiente.
+
+- Contêineres: leves, portáveis e rápidos, ideais para microsserviços e aplicações modernas.
+
+- Azure Functions: modelo serverless, onde você paga apenas pelo tempo de execução do código.
+
+Opções de hospedagem de aplicativos:
+
+- Web Apps: hospedagem gerenciada para aplicações web com alta escalabilidade e integração contínua.
+
+- Contêineres: usados com serviços como Azure Kubernetes Service (AKS).
+
+- Máquinas Virtuais: opção mais flexível, mas exige mais gestão.
+
+Redes e conectividade:
+
+- Redes Virtuais (VNets): isolam e controlam a comunicação entre recursos.
+
+- Sub-redes: divisão lógica dentro da VNet.
+
+- Emparelhamento de rede (Peering): conecta redes virtuais diferentes.
+
+- DNS e VPN Gateway: permitem personalizar nomes de rede e conectar ambientes locais com a nuvem.
+
+- ExpressRoute: conexão privada e dedicada à Azure, com maior velocidade e segurança.
