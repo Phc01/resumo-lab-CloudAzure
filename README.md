@@ -40,10 +40,26 @@ Por fim, explorei os principais benefícios da nuvem Azure:
 
 Esse conteúdo reforçou como a computação em nuvem transforma a forma como as empresas operam, tornando os ambientes mais ágeis, seguros e eficientes.
 
-## VM Cloud Azure
+## Infraestrutura na Azure com VM e DB
+Durante esse projeto, tive a oportunidade de criar e configurar meus primeiros recursos na Microsoft Azure, colocando em prática os conceitos aprendidos no lab da DIO.
 
-## Banco de Dados no Cloud Azure
+O que foi realizado:
 
-## Grupo de Recursos Cloud Azure
+- Máquina Virtual (VM): Criei minha primeira VM na Azure, configurando sistema operacional, rede e regras de acesso.
+
+- Banco de Dados: Implementei uma instância de banco de dados totalmente gerenciada, simulando um ambiente real de aplicação.
+
+- Grupo de Recursos: Organizei todos os recursos criados dentro de um Resource Group, facilitando o gerenciamento, controle de custos e governança.
+
+Esse processo me ajudou a entender na prática como provisionar recursos na nuvem, gerenciar infraestrutura como serviço (IaaS) e aplicar boas práticas de organização e segurança na Azure.
+
+### VM Cloud Azure
+![Detalhes da Virtual Machine](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/vm%20detalhes.png)
+
+### Banco de Dados Cloud Azure
+![Detalhes Database](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/db%20detalhes.png)
+
+### Resource Group Cloud Azure
+![Detalhes Resource Group](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/grupo%20de%20recursos%20com%20itens.png)
 
 
