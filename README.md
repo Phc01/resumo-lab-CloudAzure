@@ -90,3 +90,21 @@ Redes e conectividade:
 - DNS e VPN Gateway: permitem personalizar nomes de rede e conectar ambientes locais com a nuvem.
 
 - ExpressRoute: conexão privada e dedicada à Azure, com maior velocidade e segurança.
+
+## Segurança Cloud Azure
+
+Identidade, Acesso e Segurança: são pilares fundamentais para proteger os recursos na nuvem. A Azure permite gerenciar quem pode acessar o quê, como e em quais condições.
+
+Microsoft Entra ID (antigo Azure AD): é o serviço de gerenciamento de identidades e diretórios da Microsoft. Permite criar e gerenciar usuários, grupos, permissões, logins únicos (SSO) e integrações com apps corporativos.
+
+O Domain Services permite usar políticas de domínio do AD tradicional, sem a necessidade de servidores locais.
+
+Autenticação e Autorização:
+
+- Autenticação: processo de verificar a identidade do usuário (ex: login com senha ou MFA).
+
+- Autorização: define o que o usuário pode fazer após ser autenticado (permissões e papéis).
+
+- Acesso Condicional: mecanismo que aplica políticas de segurança com base em condições específicas (ex: bloquear login de locais não confiáveis, exigir autenticação multifator fora do horário comercial, etc.).
+
+
