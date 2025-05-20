@@ -124,3 +124,16 @@ Usei o seguinte texto no site [Language Studio da Microsoft](https://language.co
 > The internet didn't work and I had to come to one of their office rooms to check in for my flight home.  
 > The website says it's close to the British Museum, but it's too far to walk.
 
+Sentence 1
+
+![Sentence 1](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/resultado%20texto%20language%20studio.png)
+
+Sentence 2
+
+![Sentence 2](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/resultado%202%20.png)
+
+Sentence 3
+
+![Sentence 3](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/resultado%203.png)
+
+Pela análise da IA sobre a opinião do usuário sobre o hotel, as 2 primeiras partes do texto deu negativo, e a parte 3 do texto ficou mais neutro mas mesmo assim deu negativo
