@@ -107,4 +107,8 @@ Autenticação e Autorização:
 
 - Acesso Condicional: mecanismo que aplica políticas de segurança com base em condições específicas (ex: bloquear login de locais não confiáveis, exigir autenticação multifator fora do horário comercial, etc.).
 
+## IA Cloud Azure
+
+Sobre a IA da Azure, explorei o uso de ferramenta, como o Speech Studio e o Language Studio, voltadas para o processamento de fala e linguagem natural. O objetivo foi desenvolver habilidades práticas na criação de soluções inteligentes que interpretam voz e texto, aplicando conceitos de reconhecimento de fala, análise de sentimentos, tradução e compreensão de linguagem.
+
 
