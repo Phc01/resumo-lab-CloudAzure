@@ -140,8 +140,23 @@ Pela análise da IA sobre a opinião do usuário sobre o hotel, as 2 primeiras p
 
 ## Azure Cognitive Search
 
-Utilizando a documentação da microsft learning realizei a criação de um container para realizar pesquisas com a IA da Azure:
+Utilizando a documentação oficial da microsft learning realizei a criação de um container chamado *coffe-reviews* para realizar pesquisas com a IA Search da Azure:
 
 ### Container de Armazenamento
+Containers criados
+![Container](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/detalhes-conteineres-armazenamento.png)
+
+Arquivos do Container Coffe-Reviews
+![Armazenamento do Container](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/arquivos-conteineres.png)
 
 ### Pesquisa Utilizando AI Search
+Fiz a pesquisa utilizando query JSON
+```
+{
+ "search": "locations:'Chicago'",
+ "count": true
+}
+```
+
+Resultado da Pesquisa
+![Resultado](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/resultado-ai-search.png)
