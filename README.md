@@ -111,4 +111,9 @@ Autenticação e Autorização:
 
 Sobre a IA da Azure, explorei o uso de ferramenta, como o Speech Studio e o Language Studio, voltadas para o processamento de fala e linguagem natural. O objetivo foi desenvolver habilidades práticas na criação de soluções inteligentes que interpretam voz e texto, aplicando conceitos de reconhecimento de fala, análise de sentimentos, tradução e compreensão de linguagem.
 
+## Recurso de Fala IA Azure
+Realizei alguns testes no site da [Speech Studio da Microsoft](https://learn.microsoft.com/azure/cognitive-services/speech-service/). Tentei falar Teste Laboratório e deu esse resultado com o recurso de Transcrição em tempo real
+![Detalhes Speech Studio](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/detalhes%20Fala%20ia.png)
+
+
 
