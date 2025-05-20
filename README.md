@@ -116,7 +116,7 @@ Realizei alguns testes no site da [Speech Studio da Microsoft](https://learn.mic
 ![Detalhes Speech Studio](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/detalhes%20Fala%20ia.png)
 
 ## Recurso de Análise de Sentimento e Opiniões
-Usei o seguinte texto no site [Language Studio da Microsoft](https://language.cognitive.azure.com/)
+Usei o seguinte texto no site [Language Studio da Microsoft](https://language.cognitive.azure.com/). **Esse texto é da documentação da própria Azure**
 > **Tired hotel with poor service**  
 > *The Royal Hotel, London, United Kingdom*  
 > *5/6/2018*  
