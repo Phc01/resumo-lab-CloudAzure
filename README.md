@@ -137,3 +137,11 @@ Sentence 3
 ![Sentence 3](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/resultado%203.png)
 
 Pela análise da IA sobre a opinião do usuário sobre o hotel, as 2 primeiras partes do texto deu negativo, e a parte 3 do texto ficou mais neutro mas mesmo assim deu negativo
+
+## Azure Cognitive Search
+
+Utilizando a documentação da microsft learning realizei a criação de um container para realizar pesquisas com a IA da Azure:
+
+### Container de Armazenamento
+
+### Pesquisa Utilizando AI Search
