@@ -115,5 +115,12 @@ Sobre a IA da Azure, explorei o uso de ferramenta, como o Speech Studio e o Lang
 Realizei alguns testes no site da [Speech Studio da Microsoft](https://learn.microsoft.com/azure/cognitive-services/speech-service/). Tentei falar Teste Laboratório e deu esse resultado com o recurso de Transcrição em tempo real
 ![Detalhes Speech Studio](https://github.com/Phc01/resumo-lab-CloudAzure/blob/main/detalhes%20Fala%20ia.png)
 
-
+## Recurso de Análise de Sentimento e Opiniões
+Usei o seguinte texto no site [Language Studio da Microsoft](https://language.cognitive.azure.com/)
+> **Tired hotel with poor service**  
+> *The Royal Hotel, London, United Kingdom*  
+> *5/6/2018*  
+> This is an old hotel (has been around since the 1950s) and the room furnishings are average – becoming a bit old now and require changing.  
+> The internet didn't work and I had to come to one of their office rooms to check in for my flight home.  
+> The website says it's close to the British Museum, but it's too far to walk.
 
